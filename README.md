@@ -7,4 +7,4 @@ I know there are a lot of things that can be improved on, and will most likely b
 
 The way it works right now, is to have all 3 files in one directory and to run setup.sh
 
-When run, setup will allow you to just type "cent" into the command line and select the file in pwd you want to send. You would first require to run centProfile to create a profile or anytime in the future to create more. 
+When run, setup will allow you to just type "cent" into the command line and select the file in pwd you want to send and it will do it will send it for you. The password and path have already been specified in profile creation. You would first require to run centProfile to create a profile or anytime in the future to create more. 

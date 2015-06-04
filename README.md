@@ -1,10 +1,9 @@
 # Cend
-A series of simple scripts for creating profiles to make it simple to scp files to remote servers or desktops
 
-This was created to make my own life easier for transfering programming assignments or notes from my mobile netbook to both the school server and my desktop at my apartment. 
+Cend is a series of very simple scripts to make it extremly easy for linux users to transfer files to remote servers or computers. 
 
-I know there are a lot of things that can be improved on, and will most likely be constantly updated. I'm very receptive to feedback, so if you see something I can do better, please let me know!
+When using cend, the user can set up 'profiles' (using the cendProfile command). These profiles contain the ipaddress of the remote computer, as well as the users username, password and desired path to the transfer directory. After the profile is setup, you would never have to enter this information again. Simply run 'cend' in the command line, choose what file you would like to transfer, the desired profile and you're done!
 
-The way it works right now, is to have all 3 files in one directory and to run setup.sh
+This was created to make my own life easier for transfering programming assignments or notes from my mobile netbook to both my schools server and my desktop at my apartment.
 
-When run, setup will allow you to just type "cent" into the command line and select the file in pwd you want to send and it will do it will send it for you. The password and path have already been specified in profile creation. You would first require to run centProfile to create a profile or anytime in the future to create more. 
+I know that there is a huge amount of room for improvement and it will most likely be constantly updated. I'm very receptive to feedback, so if you see something I can do better, please let me know!

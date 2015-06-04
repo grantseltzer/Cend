@@ -7,3 +7,5 @@ When using cend, the user can set up 'profiles' (using the cendProfile command).
 This was created to make my own life easier for transfering programming assignments or notes from my mobile netbook to both my schools server and my desktop at my apartment.
 
 I know that there is a huge amount of room for improvement and it will most likely be constantly updated. I'm very receptive to feedback, so if you see something I can do better, please let me know!
+
+Now supports tab completion!

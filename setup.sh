@@ -1,5 +1,6 @@
 #!/bin/bash
 mkdir /home/$USER/.cend
+mkdir /home/$USER/.cend/profiles
 cp profile-setup.sh /home/$USER/.cend
 cp transfer.sh /home/$USER/.cend
 echo "alias cend='bash /home/$USER/.cend/transfer.sh'" >> /home/$USER/.bashrc
